@@ -1,0 +1,47 @@
+body{
+    background-color: #80466e;
+    color: #ed9e6f;
+    text-align: center;
+    font-family: "fantasy";
+    font-size: 20px;
+}
+
+ul,li{
+    text-align: left;
+}
+
+p{
+    text-align: center;
+    color: rgb(255, 155, 20); 
+}
+
+a{
+    color: rgb(200, 200, 200);
+}
+
+img{
+    border: 5px solid #ed9e6f;
+}
+.header{
+    font-weight: 1000;
+}
+.Instructions,.Ingredients{
+    text-align: left;
+    text-shadow:  -1px -1px 0 rgb(100, 100, 100),  
+         1px -1px 0  rgb(100, 100, 100),
+        -1px  1px 0  rgb(100, 100, 100),
+         1px  1px 0  rgb(100, 100, 100);
+}
+
+.Instructions ol{
+    background-color:black;
+    font-size: 18px;
+}
+
+.Instructions.header{
+    text-align: center;
+    text-shadow:  -1px -1px 0 rgb(100, 100, 100),  
+         1px -1px 0  rgb(100, 100, 100),
+        -1px  1px 0  rgb(100, 100, 100),
+         1px  1px 0  rgb(100, 100, 100);
+}
